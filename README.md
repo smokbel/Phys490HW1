@@ -7,11 +7,12 @@
 
 - json
 - numpy
+- sys
 
 ## Running `main.py`
 
 To run `main.py`, use
 
 ```sh
-python 
+python main.py data/<n_input>.in data/<n_json>.json
 ```
